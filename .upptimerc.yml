@@ -27,7 +27,7 @@ sites:
     url: lists.mv-angelbachtal.de
     port: 587
     check: "tcp-ping"
-  - naem: E-Mail
+  - name: E-Mail
     url: mail.mv-angelbachtal.de
     port: 587
     check: "tcp-ping"
