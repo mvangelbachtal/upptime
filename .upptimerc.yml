@@ -1,29 +1,44 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: mvangelbachtal # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
+  - name: MV Angelbachtal
+    url: https://www.mv-angelbachtal.de
+  - name: Staging MV Angelbachtal
+    url: https://staging.mv-angelbachtal.de
+  - name: Nextcloud
+    url: https://cloud.mv-angelbachtal.de
+  - name: SSO
+    url: https://accounts.mv-angelbachtal.de
+  - name: Jitsi
+    url: https://meet.mv-angelbachtal.de
+  - name: Etherpad
+    url: https://meet.mv-angelbachtal.de/etherpad
+  - name: Monitoring
+    url: http://grafana.mv-angelbachtal.de
+  - name: Onlyoffice
+    url: onlyoffice.mv-angelbachtal.de
+  - name: Collabora
+    url: collabora.mv-angelbachtal.de
+  - name: Sympa
+    url: https://lists.mv-angelbachtal.de
+  - name: Postfix
+    url: lists.mv-angelbachtal.de
+    port: 587
     check: "tcp-ping"
-    ipv6: true
+  - naem: E-Mail
+    url: mail.mv-angelbachtal.de
+    port: 587
+    check: "tcp-ping"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.mv-angelbachtal.de
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Status MV Angelbachtal
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
