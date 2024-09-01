@@ -5,8 +5,10 @@ repo: upptime # The name of this repository
 sites:
   - name: MV Angelbachtal
     url: https://www.mv-angelbachtal.de
+    icon: https://resources.mv-angelbachtal.de/logos/mva_logo.svg
   - name: Staging MV Angelbachtal
     url: https://staging.mv-angelbachtal.de
+    icon: https://resources.mv-angelbachtal.de/logos/mva_logo.svg
   - name: Nextcloud
     url: https://cloud.mv-angelbachtal.de
   - name: SSO
@@ -16,18 +18,22 @@ sites:
     url: https://meet.mv-angelbachtal.de
   - name: Etherpad
     url: https://meet.mv-angelbachtal.de/etherpad
+    icon: https://raw.githubusercontent.com/ether/etherpad-lite/develop/src/etherpad_icon.svg
   - name: Monitoring
     url: http://grafana.mv-angelbachtal.de
   - name: Onlyoffice
     url: onlyoffice.mv-angelbachtal.de
+    icon: https://raw.githubusercontent.com/ONLYOFFICE/api.onlyoffice.com/master/web/Content/img/logo-small.svg
   - name: Collabora
     url: collabora.mv-angelbachtal.de
+    icon: https://raw.githubusercontent.com/CollaboraOnline/collabora-mattermost/master/assets/icons/icon.svg
   - name: Sympa
     url: https://lists.mv-angelbachtal.de
   - name: Postfix
     url: lists.mv-angelbachtal.de
     port: 587
     check: "tcp-ping"
+    icon: https://www.postfix.org/mysza.gif
   - name: E-Mail
     url: mail.mv-angelbachtal.de
     port: 587
