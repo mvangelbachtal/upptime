@@ -22,9 +22,9 @@
     "url": "https://staging.mv-angelbachtal.de",
     "icon": "https://resources.mv-angelbachtal.de/logos/mva_logo.svg",
     "slug": "staging-mv-angelbachtal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 2181,
     "timeMonth": 2181,
     "timeYear": 2181,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-02": 0
+    }
   },
   {
     "name": "Nextcloud",
