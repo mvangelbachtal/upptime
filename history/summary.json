@@ -137,19 +137,19 @@
     "url": "onlyoffice.mv-angelbachtal.de",
     "icon": "https://raw.githubusercontent.com/ONLYOFFICE/api.onlyoffice.com/master/web/Content/img/logo-small.svg",
     "slug": "onlyoffice",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 819,
-    "timeDay": 658,
-    "timeWeek": 829,
-    "timeMonth": 836,
-    "timeYear": 819,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 822,
+    "timeDay": 826,
+    "timeWeek": 866,
+    "timeMonth": 845,
+    "timeYear": 822,
     "dailyMinutesDown": {
-      "2024-11-26": 0
+      "2024-11-26": 14
     }
   },
   {
