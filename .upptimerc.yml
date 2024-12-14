@@ -121,9 +121,9 @@ i18n:
   history: Verlauf
   responseTime: Antwortzeit
   uptime: Verfügbarkeit
-  up: 🟩 Betriebsbereit
-  degraded: 🟨 Eingeschränkt
-  down: 🟥 Ausfall
+  up: Betriebsbereit
+  degraded: Eingeschränkt
+  down: Ausfall
   responseTimeGraphAlt: Antwortzeitdiagramm
   responseTimeDay: Antwortzeit der letzten 24 Stunden
   responseTimeWeek: Antwortzeit der letzten 7 Tage
@@ -134,7 +134,7 @@ i18n:
   uptimeMonth: Verfügbarkeit der letzten 30 Tage
   uptimeYear: Verfügbarkeit des letzten Jahres
   liveStatusHtmlComment: <!--Live-Status-->
-  allSystemsOperational: 🟩 Alle Systeme sind betriebsbereit
-  degradedPerformance: 🟨 Eingeschränkte Leistung
-  completeOutage: 🟥 Totalausfall
-  partialOutage: 🟧 Teilausfall
+  allSystemsOperational: Alle Systeme sind betriebsbereit
+  degradedPerformance: Eingeschränkte Leistung
+  completeOutage: Totalausfall
+  partialOutage: Teilausfall
