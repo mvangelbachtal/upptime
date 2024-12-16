@@ -27,13 +27,6 @@ sites:
   - name: Collabora
     url: collabora.mv-angelbachtal.de
     icon: https://raw.githubusercontent.com/CollaboraOnline/collabora-mattermost/master/assets/icons/icon.svg
-  - name: Sympa
-    url: https://lists.mv-angelbachtal.de
-  - name: Postfix
-    url: lists.mv-angelbachtal.de
-    port: 587
-    check: "tcp-ping"
-    icon: https://www.postfix.org/mysza.gif
   - name: E-Mail
     url: mail.mv-angelbachtal.de
     port: 587
