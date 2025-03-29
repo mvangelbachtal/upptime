@@ -114,9 +114,9 @@
     "url": "https://meet.mv-angelbachtal.de/etherpad",
     "icon": "https://raw.githubusercontent.com/ether/etherpad-lite/develop/src/etherpad_icon.svg",
     "slug": "etherpad",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.30%",
@@ -126,6 +126,7 @@
     "timeMonth": 248,
     "timeYear": 251,
     "dailyMinutesDown": {
+      "2025-03-29": 0,
       "2024-12-17": 15,
       "2024-12-13": 996,
       "2024-12-12": 1118
@@ -182,9 +183,9 @@
     "slug": "collabora",
     "status": "up",
     "uptime": "99.30%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.30%",
     "time": 692,
     "timeDay": 735,
@@ -192,7 +193,6 @@
     "timeMonth": 712,
     "timeYear": 692,
     "dailyMinutesDown": {
-      "2025-03-29": 11,
       "2024-12-17": 15,
       "2024-12-13": 996,
       "2024-12-12": 1117
