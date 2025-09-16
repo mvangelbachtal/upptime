@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1036,
-    "timeDay": 1333,
-    "timeWeek": 1057,
-    "timeMonth": 1066,
-    "timeYear": 1036,
-    "dailyMinutesDown": {
-      "2024-09-16": 56
-    }
+    "timeDay": 900,
+    "timeWeek": 1021,
+    "timeMonth": 1070,
+    "timeYear": 1035,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Staging MV Angelbachtal",
@@ -30,14 +28,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2102,
-    "timeDay": 1038,
-    "timeWeek": 1816,
-    "timeMonth": 1912,
+    "time": 2100,
+    "timeDay": 1103,
+    "timeWeek": 1650,
+    "timeMonth": 1916,
     "timeYear": 2097,
     "dailyMinutesDown": {
-      "2024-10-09": 23,
-      "2024-09-16": 56
+      "2024-10-09": 23
     }
   },
   {
@@ -52,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
     "time": 999,
-    "timeDay": 776,
-    "timeWeek": 926,
-    "timeMonth": 933,
+    "timeDay": 932,
+    "timeWeek": 903,
+    "timeMonth": 938,
     "timeYear": 1000,
     "dailyMinutesDown": {
       "2025-06-18": 16,
@@ -74,10 +71,10 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.34%",
-    "time": 731,
-    "timeDay": 684,
-    "timeWeek": 730,
-    "timeMonth": 728,
+    "time": 730,
+    "timeDay": 649,
+    "timeWeek": 712,
+    "timeMonth": 732,
     "timeYear": 734,
     "dailyMinutesDown": {
       "2025-09-15": 16,
@@ -100,10 +97,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
-    "time": 592,
-    "timeDay": 575,
-    "timeWeek": 608,
-    "timeMonth": 609,
+    "time": 591,
+    "timeDay": 465,
+    "timeWeek": 593,
+    "timeMonth": 607,
     "timeYear": 594,
     "dailyMinutesDown": {
       "2024-12-17": 16,
@@ -123,9 +120,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
     "time": 249,
-    "timeDay": 221,
-    "timeWeek": 245,
-    "timeMonth": 247,
+    "timeDay": 223,
+    "timeWeek": 239,
+    "timeMonth": 249,
     "timeYear": 250,
     "dailyMinutesDown": {
       "2024-12-17": 15,
@@ -145,9 +142,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
     "time": 960,
-    "timeDay": 887,
-    "timeWeek": 943,
-    "timeMonth": 951,
+    "timeDay": 915,
+    "timeWeek": 927,
+    "timeMonth": 960,
     "timeYear": 965,
     "dailyMinutesDown": {
       "2024-12-17": 15,
@@ -167,9 +164,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.60%",
     "time": 822,
-    "timeDay": 777,
-    "timeWeek": 844,
-    "timeMonth": 812,
+    "timeDay": 709,
+    "timeWeek": 826,
+    "timeMonth": 813,
     "timeYear": 826,
     "dailyMinutesDown": {
       "2024-12-17": 15,
@@ -189,10 +186,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.60%",
     "time": 694,
-    "timeDay": 666,
-    "timeWeek": 689,
-    "timeMonth": 687,
-    "timeYear": 698,
+    "timeDay": 684,
+    "timeWeek": 687,
+    "timeMonth": 694,
+    "timeYear": 699,
     "dailyMinutesDown": {
       "2024-12-17": 15,
       "2024-12-13": 996,
@@ -211,9 +208,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 120,
-    "timeDay": 108,
-    "timeWeek": 119,
-    "timeMonth": 120,
+    "timeDay": 109,
+    "timeWeek": 116,
+    "timeMonth": 121,
     "timeYear": 121,
     "dailyMinutesDown": {}
   }
