@@ -4,9 +4,9 @@
     "url": "https://www.mv-angelbachtal.de",
     "icon": "https://resources.mv-angelbachtal.de/logos/mva_logo.svg",
     "slug": "mv-angelbachtal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 1068,
     "timeMonth": 1258,
     "timeYear": 1049,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-14": 0
+    }
   },
   {
     "name": "Staging MV Angelbachtal",
     "url": "https://staging.mv-angelbachtal.de",
     "icon": "https://resources.mv-angelbachtal.de/logos/mva_logo.svg",
     "slug": "staging-mv-angelbachtal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 2472,
     "timeMonth": 2450,
     "timeYear": 2071,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-14": 0
+    }
   },
   {
     "name": "Nextcloud",
@@ -157,7 +161,7 @@
     "icon": "https://raw.githubusercontent.com/ONLYOFFICE/api.onlyoffice.com/master/web/Content/img/logo-small.svg",
     "slug": "onlyoffice",
     "status": "up",
-    "uptime": "99.66%",
+    "uptime": "99.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -179,7 +183,7 @@
     "icon": "https://raw.githubusercontent.com/CollaboraOnline/collabora-mattermost/master/assets/icons/icon.svg",
     "slug": "collabora",
     "status": "up",
-    "uptime": "99.66%",
+    "uptime": "99.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
