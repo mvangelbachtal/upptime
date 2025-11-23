@@ -4,19 +4,19 @@
     "url": "https://www.mv-angelbachtal.de",
     "icon": "https://resources.mv-angelbachtal.de/logos/mva_logo.svg",
     "slug": "mv-angelbachtal",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 1053,
-    "timeDay": 1240,
-    "timeWeek": 1115,
-    "timeMonth": 1305,
-    "timeYear": 1052,
+    "time": 1058,
+    "timeDay": 2136,
+    "timeWeek": 1354,
+    "timeMonth": 1357,
+    "timeYear": 1059,
     "dailyMinutesDown": {
-      "2025-11-23": 0
+      "2025-11-23": 14
     }
   },
   {
@@ -24,18 +24,20 @@
     "url": "https://staging.mv-angelbachtal.de",
     "icon": "https://resources.mv-angelbachtal.de/logos/mva_logo.svg",
     "slug": "staging-mv-angelbachtal",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 2127,
-    "timeDay": 3445,
-    "timeWeek": 2574,
-    "timeMonth": 2486,
-    "timeYear": 2080,
-    "dailyMinutesDown": {}
+    "time": 2129,
+    "timeDay": 3166,
+    "timeWeek": 2613,
+    "timeMonth": 2499,
+    "timeYear": 2082,
+    "dailyMinutesDown": {
+      "2025-11-23": 14
+    }
   },
   {
     "name": "Nextcloud",
