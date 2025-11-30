@@ -6,9 +6,9 @@
     "slug": "mv-angelbachtal",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 1062,
     "timeDay": 1439,
@@ -16,7 +16,6 @@
     "timeMonth": 1363,
     "timeYear": 1067,
     "dailyMinutesDown": {
-      "2025-11-29": 4,
       "2025-11-25": 18
     }
   },
@@ -27,9 +26,9 @@
     "slug": "staging-mv-angelbachtal",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 2145,
     "timeDay": 2921,
@@ -37,7 +36,6 @@
     "timeMonth": 2536,
     "timeYear": 2101,
     "dailyMinutesDown": {
-      "2025-11-29": 4,
       "2025-11-25": 18
     }
   },
