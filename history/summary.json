@@ -11,10 +11,10 @@
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.98%",
     "time": 1087,
-    "timeDay": 903,
-    "timeWeek": 1402,
-    "timeMonth": 1407,
-    "timeYear": 1079,
+    "timeDay": 920,
+    "timeWeek": 1407,
+    "timeMonth": 1404,
+    "timeYear": 1080,
     "dailyMinutesDown": {
       "2025-12-07": 27,
       "2025-12-02": 49,
@@ -33,11 +33,11 @@
     "uptimeWeek": "99.41%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.97%",
-    "time": 2182,
-    "timeDay": 2694,
-    "timeWeek": 2797,
-    "timeMonth": 2750,
-    "timeYear": 2140,
+    "time": 2183,
+    "timeDay": 2662,
+    "timeWeek": 2765,
+    "timeMonth": 2757,
+    "timeYear": 2142,
     "dailyMinutesDown": {
       "2025-12-07": 60,
       "2025-12-02": 49,
@@ -55,16 +55,15 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.59%",
+    "uptimeYear": "99.81%",
     "time": 998,
-    "timeDay": 956,
-    "timeWeek": 975,
-    "timeMonth": 1050,
+    "timeDay": 951,
+    "timeWeek": 977,
+    "timeMonth": 1053,
     "timeYear": 984,
     "dailyMinutesDown": {
       "2025-06-18": 16,
-      "2024-12-17": 16,
-      "2024-12-13": 996
+      "2024-12-17": 16
     }
   },
   {
@@ -77,11 +76,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.33%",
+    "uptimeYear": "99.55%",
     "time": 735,
-    "timeDay": 720,
-    "timeWeek": 702,
-    "timeMonth": 794,
+    "timeDay": 721,
+    "timeWeek": 716,
+    "timeMonth": 800,
     "timeYear": 736,
     "dailyMinutesDown": {
       "2025-09-26": 68,
@@ -89,8 +88,7 @@
       "2025-08-13": 656,
       "2025-08-12": 139,
       "2025-02-01": 132,
-      "2024-12-17": 398,
-      "2024-12-13": 996
+      "2024-12-17": 398
     }
   },
   {
@@ -99,19 +97,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/meet.mv-angelbachtal.de.ico",
     "slug": "jitsi",
     "status": "up",
-    "uptime": "99.68%",
+    "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.59%",
+    "uptimeYear": "99.81%",
     "time": 596,
-    "timeDay": 503,
-    "timeWeek": 563,
-    "timeMonth": 637,
+    "timeDay": 573,
+    "timeWeek": 582,
+    "timeMonth": 642,
     "timeYear": 599,
     "dailyMinutesDown": {
-      "2024-12-17": 16,
-      "2024-12-13": 996
+      "2024-12-17": 16
     }
   },
   {
@@ -120,19 +117,18 @@
     "icon": "https://raw.githubusercontent.com/ether/etherpad-lite/develop/src/etherpad_icon.svg",
     "slug": "etherpad",
     "status": "up",
-    "uptime": "99.68%",
+    "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.59%",
+    "uptimeYear": "99.81%",
     "time": 251,
-    "timeDay": 231,
-    "timeWeek": 236,
-    "timeMonth": 269,
+    "timeDay": 227,
+    "timeWeek": 239,
+    "timeMonth": 270,
     "timeYear": 247,
     "dailyMinutesDown": {
-      "2024-12-17": 15,
-      "2024-12-13": 996
+      "2024-12-17": 15
     }
   },
   {
@@ -141,19 +137,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/grafana.mv-angelbachtal.de.ico",
     "slug": "monitoring",
     "status": "up",
-    "uptime": "99.68%",
+    "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.59%",
+    "uptimeYear": "99.81%",
     "time": 966,
-    "timeDay": 817,
-    "timeWeek": 911,
-    "timeMonth": 1030,
+    "timeDay": 851,
+    "timeWeek": 912,
+    "timeMonth": 1031,
     "timeYear": 970,
     "dailyMinutesDown": {
-      "2024-12-17": 15,
-      "2024-12-13": 996
+      "2024-12-17": 15
     }
   },
   {
@@ -162,19 +157,18 @@
     "icon": "https://raw.githubusercontent.com/ONLYOFFICE/api.onlyoffice.com/master/web/Content/img/logo-small.svg",
     "slug": "onlyoffice",
     "status": "up",
-    "uptime": "99.68%",
+    "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.60%",
+    "uptimeYear": "99.81%",
     "time": 826,
-    "timeDay": 798,
-    "timeWeek": 784,
-    "timeMonth": 883,
+    "timeDay": 823,
+    "timeWeek": 796,
+    "timeMonth": 886,
     "timeYear": 827,
     "dailyMinutesDown": {
-      "2024-12-17": 15,
-      "2024-12-13": 996
+      "2024-12-17": 15
     }
   },
   {
@@ -183,19 +177,18 @@
     "icon": "https://raw.githubusercontent.com/CollaboraOnline/collabora-mattermost/master/assets/icons/icon.svg",
     "slug": "collabora",
     "status": "up",
-    "uptime": "99.68%",
+    "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.60%",
+    "uptimeYear": "99.81%",
     "time": 699,
-    "timeDay": 702,
-    "timeWeek": 654,
-    "timeMonth": 744,
-    "timeYear": 704,
+    "timeDay": 607,
+    "timeWeek": 662,
+    "timeMonth": 743,
+    "timeYear": 703,
     "dailyMinutesDown": {
-      "2024-12-17": 15,
-      "2024-12-13": 996
+      "2024-12-17": 15
     }
   },
   {
@@ -210,8 +203,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 121,
-    "timeDay": 110,
-    "timeWeek": 113,
+    "timeDay": 112,
+    "timeWeek": 115,
     "timeMonth": 130,
     "timeYear": 120,
     "dailyMinutesDown": {}
