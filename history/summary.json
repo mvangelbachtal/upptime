@@ -50,19 +50,19 @@
     "url": "https://cloud.mv-angelbachtal.de",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.mv-angelbachtal.de.ico",
     "slug": "nextcloud",
-    "status": "down",
-    "uptime": "99.69%",
-    "uptimeDay": "98.92%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.96%",
+    "status": "up",
+    "uptime": "99.68%",
+    "uptimeDay": "98.04%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 1019,
-    "timeDay": 6228,
-    "timeWeek": 2298,
-    "timeMonth": 1358,
+    "timeDay": 4452,
+    "timeWeek": 2143,
+    "timeMonth": 1344,
     "timeYear": 974,
     "dailyMinutesDown": {
-      "2025-12-22": 15,
+      "2025-12-22": 28,
       "2025-06-18": 16
     }
   },
@@ -96,10 +96,10 @@
     "url": "https://meet.mv-angelbachtal.de",
     "icon": "https://icons.duckduckgo.com/ip3/meet.mv-angelbachtal.de.ico",
     "slug": "jitsi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 598,
@@ -107,16 +107,18 @@
     "timeWeek": 731,
     "timeMonth": 639,
     "timeYear": 602,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-22": 2
+    }
   },
   {
     "name": "Etherpad",
     "url": "https://meet.mv-angelbachtal.de/etherpad",
     "icon": "https://raw.githubusercontent.com/ether/etherpad-lite/develop/src/etherpad_icon.svg",
     "slug": "etherpad",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -125,7 +127,9 @@
     "timeWeek": 344,
     "timeMonth": 279,
     "timeYear": 250,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-22": 0
+    }
   },
   {
     "name": "Monitoring",
