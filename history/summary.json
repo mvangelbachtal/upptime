@@ -50,11 +50,11 @@
     "url": "https://cloud.mv-angelbachtal.de",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.mv-angelbachtal.de.ico",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "98.95%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.51%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 1036,
     "timeDay": 5603,
@@ -62,6 +62,7 @@
     "timeMonth": 1575,
     "timeYear": 997,
     "dailyMinutesDown": {
+      "2025-12-23": 6,
       "2025-12-22": 15,
       "2025-06-18": 16
     }
@@ -71,11 +72,11 @@
     "url": "https://accounts.mv-angelbachtal.de",
     "icon": "https://www.keycloak.org/resources/images/icon.svg",
     "slug": "sso",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "98.94%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.80%",
     "time": 735,
     "timeDay": 770,
@@ -83,6 +84,7 @@
     "timeMonth": 759,
     "timeYear": 738,
     "dailyMinutesDown": {
+      "2025-12-23": 6,
       "2025-12-22": 15,
       "2025-09-26": 68,
       "2025-09-15": 16,
@@ -96,64 +98,70 @@
     "url": "https://meet.mv-angelbachtal.de",
     "icon": "https://icons.duckduckgo.com/ip3/meet.mv-angelbachtal.de.ico",
     "slug": "jitsi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 597,
     "timeDay": 788,
     "timeWeek": 697,
     "timeMonth": 629,
     "timeYear": 601,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-23": 5
+    }
   },
   {
     "name": "Etherpad",
     "url": "https://meet.mv-angelbachtal.de/etherpad",
     "icon": "https://raw.githubusercontent.com/ether/etherpad-lite/develop/src/etherpad_icon.svg",
     "slug": "etherpad",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 252,
     "timeDay": 459,
     "timeWeek": 330,
     "timeMonth": 274,
     "timeYear": 249,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-23": 5
+    }
   },
   {
     "name": "Monitoring",
     "url": "http://grafana.mv-angelbachtal.de",
     "icon": "https://icons.duckduckgo.com/ip3/grafana.mv-angelbachtal.de.ico",
     "slug": "monitoring",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 965,
     "timeDay": 847,
     "timeWeek": 981,
     "timeMonth": 959,
     "timeYear": 971,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-23": 3
+    }
   },
   {
     "name": "Onlyoffice",
     "url": "onlyoffice.mv-angelbachtal.de",
     "icon": "https://raw.githubusercontent.com/ONLYOFFICE/api.onlyoffice.com/master/web/Content/img/logo-small.svg",
     "slug": "onlyoffice",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 826,
@@ -161,16 +169,18 @@
     "timeWeek": 880,
     "timeMonth": 841,
     "timeYear": 828,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-23": 2
+    }
   },
   {
     "name": "Collabora",
     "url": "collabora.mv-angelbachtal.de",
     "icon": "https://raw.githubusercontent.com/CollaboraOnline/collabora-mattermost/master/assets/icons/icon.svg",
     "slug": "collabora",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -179,7 +189,9 @@
     "timeWeek": 752,
     "timeMonth": 718,
     "timeYear": 705,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-23": 0
+    }
   },
   {
     "name": "E-Mail",
