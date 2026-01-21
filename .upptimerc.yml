@@ -14,19 +14,8 @@ sites:
   - name: SSO
     url: https://accounts.mv-angelbachtal.de
     icon: https://www.keycloak.org/resources/images/icon.svg
-  - name: Jitsi
-    url: https://meet.mv-angelbachtal.de
-  - name: Etherpad
-    url: https://meet.mv-angelbachtal.de/etherpad
-    icon: https://raw.githubusercontent.com/ether/etherpad-lite/develop/src/etherpad_icon.svg
   - name: Monitoring
     url: http://grafana.mv-angelbachtal.de
-  - name: Onlyoffice
-    url: onlyoffice.mv-angelbachtal.de
-    icon: https://raw.githubusercontent.com/ONLYOFFICE/api.onlyoffice.com/master/web/Content/img/logo-small.svg
-  - name: Collabora
-    url: collabora.mv-angelbachtal.de
-    icon: https://raw.githubusercontent.com/CollaboraOnline/collabora-mattermost/master/assets/icons/icon.svg
   - name: E-Mail
     url: mail.mv-angelbachtal.de
     port: 587
