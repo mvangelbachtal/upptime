@@ -40,7 +40,7 @@ status-website:
   logoUrl: https://resources.mv-angelbachtal.de/logos/mva_logo.svg
   name: Status MV Angelbachtal
   introTitle: "**Status-Seite** der Dienste des Musikverein Angelbachtal e.V."
-  introMessage: Hier findest du den aktuellen Status unserer Online-Dienste und -Plattformen. Alle Informationen werden **in Echtzeit** aus unserem [GitHub-Repository](https://github.com/$OWNER/$REPO) bereitgestellt. Bei Fragen oder Problemen wende dich bitte direkt an unser Team.
+  introMessage: Hier findest du den aktuellen Status unserer Online-Dienste und -Plattformen. Alle Informationen werden **in Echtzeit** aus unserem [GitHub-Repository](https://github.com/mvangelbachtal/upptime) bereitgestellt. Bei Fragen oder Problemen wende dich bitte direkt an unser Team.
   navbar:
     - title: Status
       href: /
