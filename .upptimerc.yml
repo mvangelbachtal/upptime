@@ -11,11 +11,18 @@ sites:
     icon: https://resources.mv-angelbachtal.de/logos/mva_logo.svg
   - name: Nextcloud
     url: https://cloud.mv-angelbachtal.de
-  - name: SSO
+  - name: SSO (Legacy)
     url: https://accounts.mv-angelbachtal.de
     icon: https://www.keycloak.org/resources/images/icon.svg
+  - name: Authentik (Live)
+    url: https://id.mv-angelbachtal.de/-/health/live/
+    icon: https://goauthentik.io/img/icon.png
+  - name: Authentik (Ready / DB)
+    url: https://id.mv-angelbachtal.de/-/health/ready/
+    icon: https://goauthentik.io/img/icon.png
   - name: Monitoring
-    url: http://grafana.mv-angelbachtal.de
+    url: https://grafana.mv-angelbachtal.de/api/health
+    icon: https://raw.githubusercontent.com/grafana/grafana/refs/heads/main/public/img/grafana_icon.svg
   - name: E-Mail
     url: mail.mv-angelbachtal.de
     port: 587
