@@ -96,18 +96,19 @@
     "icon": "https://www.keycloak.org/resources/images/icon.svg",
     "slug": "sso-legacy",
     "status": "down",
-    "uptime": "99.55%",
-    "uptimeDay": "98.20%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.55%",
+    "uptime": "98.98%",
+    "uptimeDay": "95.86%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "98.98%",
+    "uptimeYear": "98.98%",
     "time": 812,
     "timeDay": 983,
     "timeWeek": 812,
     "timeMonth": 812,
     "timeYear": 812,
     "dailyMinutesDown": {
-      "2026-02-05": 26
+      "2026-02-06": 25,
+      "2026-02-05": 34
     }
   },
   {
@@ -153,9 +154,9 @@
     "slug": "monitoring",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "82.27%",
-    "uptimeMonth": "95.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "82.39%",
+    "uptimeMonth": "95.95%",
     "uptimeYear": "99.65%",
     "time": 966,
     "timeDay": 543,
@@ -163,7 +164,6 @@
     "timeMonth": 863,
     "timeYear": 967,
     "dailyMinutesDown": {
-      "2026-02-05": 11,
       "2026-02-01": 1400,
       "2026-01-31": 346,
       "2026-01-30": 29,
