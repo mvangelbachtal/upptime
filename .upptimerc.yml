@@ -11,9 +11,6 @@ sites:
     icon: https://resources.mv-angelbachtal.de/logos/mva_logo.svg
   - name: Nextcloud
     url: https://cloud.mv-angelbachtal.de
-  - name: SSO (Legacy)
-    url: https://accounts.mv-angelbachtal.de
-    icon: https://www.keycloak.org/resources/images/icon.svg
   - name: Authentik (Live)
     url: https://id.mv-angelbachtal.de/-/health/live/
     icon: https://goauthentik.io/img/icon.png
