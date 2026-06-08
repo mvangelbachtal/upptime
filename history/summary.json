@@ -4,17 +4,17 @@
     "url": "https://www.mv-angelbachtal.de",
     "icon": "https://resources.mv-angelbachtal.de/logos/mva_logo.svg",
     "slug": "mv-angelbachtal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "68.39%",
-    "uptimeWeek": "86.08%",
-    "uptimeMonth": "96.65%",
+    "uptimeDay": "69.14%",
+    "uptimeWeek": "86.03%",
+    "uptimeMonth": "96.63%",
     "uptimeYear": "99.53%",
-    "time": 1309,
+    "time": 1310,
     "timeDay": 1790,
     "timeWeek": 1920,
-    "timeMonth": 1862,
-    "timeYear": 1433,
+    "timeMonth": 1874,
+    "timeYear": 1434,
     "dailyMinutesDown": {
       "2025-11-25": 18,
       "2025-12-01": 17,
@@ -61,7 +61,7 @@
       "2026-06-05": 188,
       "2026-06-06": 232,
       "2026-06-07": 195,
-      "2026-06-08": 433
+      "2026-06-08": 438
     }
   },
   {
@@ -69,17 +69,17 @@
     "url": "https://staging.mv-angelbachtal.de",
     "icon": "https://resources.mv-angelbachtal.de/logos/mva_logo.svg",
     "slug": "staging-mv-angelbachtal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "70.39%",
+    "uptimeDay": "71.13%",
     "uptimeWeek": "87.36%",
     "uptimeMonth": "97.00%",
     "uptimeYear": "99.56%",
-    "time": 2318,
+    "time": 2320,
     "timeDay": 2695,
     "timeWeek": 2682,
-    "timeMonth": 2595,
-    "timeYear": 2449,
+    "timeMonth": 2598,
+    "timeYear": 2450,
     "dailyMinutesDown": {
       "2025-11-25": 18,
       "2025-12-01": 17,
@@ -143,7 +143,7 @@
     "time": 1014,
     "timeDay": 985,
     "timeWeek": 1114,
-    "timeMonth": 1197,
+    "timeMonth": 1204,
     "timeYear": 1039,
     "dailyMinutesDown": {
       "2025-06-18": 16,
@@ -168,7 +168,7 @@
     "time": 504,
     "timeDay": 448,
     "timeWeek": 484,
-    "timeMonth": 499,
+    "timeMonth": 501,
     "timeYear": 504,
     "dailyMinutesDown": {
       "2026-04-05": 16
@@ -188,7 +188,7 @@
     "time": 229,
     "timeDay": 345,
     "timeWeek": 407,
-    "timeMonth": 405,
+    "timeMonth": 408,
     "timeYear": 229,
     "dailyMinutesDown": {
       "2026-04-05": 34
@@ -208,7 +208,7 @@
     "time": 842,
     "timeDay": 388,
     "timeWeek": 444,
-    "timeMonth": 443,
+    "timeMonth": 447,
     "timeYear": 805,
     "dailyMinutesDown": {
       "2025-12-23": 39,
@@ -236,8 +236,8 @@
     "time": 121,
     "timeDay": 99,
     "timeWeek": 120,
-    "timeMonth": 118,
-    "timeYear": 122,
+    "timeMonth": 119,
+    "timeYear": 123,
     "dailyMinutesDown": {}
   }
 ]
