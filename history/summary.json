@@ -6,10 +6,10 @@
     "slug": "mv-angelbachtal",
     "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "69.60%",
-    "uptimeWeek": "86.03%",
-    "uptimeMonth": "96.63%",
-    "uptimeYear": "99.53%",
+    "uptimeDay": "66.27%",
+    "uptimeWeek": "85.56%",
+    "uptimeMonth": "96.52%",
+    "uptimeYear": "99.52%",
     "time": 1311,
     "timeDay": 1566,
     "timeWeek": 1875,
@@ -61,7 +61,8 @@
       "2026-06-05": 188,
       "2026-06-06": 232,
       "2026-06-07": 195,
-      "2026-06-08": 438
+      "2026-06-08": 439,
+      "2026-06-09": 47
     }
   },
   {
@@ -71,10 +72,10 @@
     "slug": "staging-mv-angelbachtal",
     "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "71.59%",
-    "uptimeWeek": "87.36%",
-    "uptimeMonth": "97.00%",
-    "uptimeYear": "99.56%",
+    "uptimeDay": "68.27%",
+    "uptimeWeek": "86.89%",
+    "uptimeMonth": "96.89%",
+    "uptimeYear": "99.55%",
     "time": 2319,
     "timeDay": 2448,
     "timeWeek": 2638,
@@ -126,7 +127,8 @@
       "2026-06-05": 168,
       "2026-06-06": 194,
       "2026-06-07": 171,
-      "2026-06-08": 408
+      "2026-06-08": 409,
+      "2026-06-09": 47
     }
   },
   {
