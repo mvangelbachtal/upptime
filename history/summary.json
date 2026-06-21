@@ -4,17 +4,17 @@
     "url": "https://www.mv-angelbachtal.de",
     "icon": "https://resources.mv-angelbachtal.de/logos/mva_logo.svg",
     "slug": "mv-angelbachtal",
-    "status": "down",
+    "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "85.24%",
-    "uptimeWeek": "88.35%",
-    "uptimeMonth": "91.92%",
+    "uptimeDay": "83.69%",
+    "uptimeWeek": "88.13%",
+    "uptimeMonth": "91.87%",
     "uptimeYear": "99.17%",
-    "time": 1398,
-    "timeDay": 1518,
-    "timeWeek": 1847,
-    "timeMonth": 1904,
-    "timeYear": 1478,
+    "time": 1401,
+    "timeDay": 1668,
+    "timeWeek": 1863,
+    "timeMonth": 1908,
+    "timeYear": 1480,
     "dailyMinutesDown": {
       "2026-01-27": 30,
       "2026-01-26": 4,
@@ -65,7 +65,7 @@
       "2026-06-18": 106,
       "2026-06-19": 141,
       "2026-06-20": 142,
-      "2026-06-21": 212
+      "2026-06-21": 234
     }
   },
   {
@@ -73,16 +73,16 @@
     "url": "https://staging.mv-angelbachtal.de",
     "icon": "https://resources.mv-angelbachtal.de/logos/mva_logo.svg",
     "slug": "staging-mv-angelbachtal",
-    "status": "down",
+    "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "86.56%",
-    "uptimeWeek": "89.35%",
-    "uptimeMonth": "92.61%",
-    "uptimeYear": "99.23%",
-    "time": 2412,
-    "timeDay": 2886,
-    "timeWeek": 2960,
-    "timeMonth": 2771,
+    "uptimeDay": "85.02%",
+    "uptimeWeek": "89.13%",
+    "uptimeMonth": "92.56%",
+    "uptimeYear": "99.22%",
+    "time": 2414,
+    "timeDay": 2788,
+    "timeWeek": 2939,
+    "timeMonth": 2767,
     "timeYear": 2499,
     "dailyMinutesDown": {
       "2026-01-26": 70,
@@ -134,7 +134,7 @@
       "2026-06-18": 96,
       "2026-06-19": 126,
       "2026-06-20": 127,
-      "2026-06-21": 193
+      "2026-06-21": 215
     }
   },
   {
