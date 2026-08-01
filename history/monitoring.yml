@@ -1,7 +1,7 @@
 url: https://grafana.mv-angelbachtal.de/api/health
 status: up
 code: 200
-responseTime: 506
-lastUpdated: 2026-07-31T23:23:47.090Z
+responseTime: 440
+lastUpdated: 2026-08-01T23:21:05.680Z
 startTime: 2024-08-29T23:49:30.789Z
 generator: Upptime <https://github.com/upptime/upptime>
