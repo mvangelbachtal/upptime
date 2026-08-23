@@ -6,9 +6,6 @@ sites:
   - name: MV Angelbachtal
     url: https://www.mv-angelbachtal.de
     icon: https://resources.mv-angelbachtal.de/logos/mva_logo.svg
-  - name: Staging MV Angelbachtal
-    url: https://staging.mv-angelbachtal.de
-    icon: https://resources.mv-angelbachtal.de/logos/mva_logo.svg
   - name: Nextcloud
     url: https://cloud.mv-angelbachtal.de
   - name: Authentik (Live)
