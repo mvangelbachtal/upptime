@@ -1,7 +1,7 @@
 url: https://cloud.mv-angelbachtal.de
-status: up
-code: 200
-responseTime: 1458
-lastUpdated: 2026-10-09T23:13:53.080Z
+status: down
+code: 503
+responseTime: 16195
+lastUpdated: 2026-10-10T09:28:06.119Z
 startTime: 2024-08-29T23:49:26.049Z
 generator: Upptime <https://github.com/upptime/upptime>
