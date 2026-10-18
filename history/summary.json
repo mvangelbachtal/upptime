@@ -73,13 +73,13 @@
     "url": "https://cloud.mv-angelbachtal.de",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.mv-angelbachtal.de.ico",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.76%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "99.94%",
-    "time": 1134,
+    "time": 1135,
     "timeDay": 1286,
     "timeWeek": 1224,
     "timeMonth": 1672,
@@ -92,7 +92,8 @@
       "2026-04-05": 34,
       "2026-09-28": 16,
       "2026-10-01": 64,
-      "2026-10-10": 25
+      "2026-10-10": 25,
+      "2026-10-18": 5
     }
   },
   {
@@ -100,20 +101,21 @@
     "url": "https://id.mv-angelbachtal.de/-/health/live/",
     "icon": "https://goauthentik.io/img/icon.png",
     "slug": "authentik-live",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 531,
-    "timeDay": 658,
-    "timeWeek": 604,
-    "timeMonth": 633,
-    "timeYear": 531,
+    "time": 547,
+    "timeDay": 2670,
+    "timeWeek": 1114,
+    "timeMonth": 763,
+    "timeYear": 547,
     "dailyMinutesDown": {
       "2026-04-05": 16,
-      "2026-09-28": 16
+      "2026-09-28": 16,
+      "2026-10-18": 1
     }
   },
   {
@@ -121,20 +123,21 @@
     "url": "https://id.mv-angelbachtal.de/-/health/ready/",
     "icon": "https://goauthentik.io/img/icon.png",
     "slug": "authentik-ready-db",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 336,
-    "timeDay": 473,
-    "timeWeek": 463,
-    "timeMonth": 466,
-    "timeYear": 336,
+    "time": 337,
+    "timeDay": 452,
+    "timeWeek": 459,
+    "timeMonth": 465,
+    "timeYear": 337,
     "dailyMinutesDown": {
       "2026-04-05": 34,
-      "2026-09-28": 16
+      "2026-09-28": 16,
+      "2026-10-18": 1
     }
   },
   {
@@ -142,13 +145,13 @@
     "url": "https://grafana.mv-angelbachtal.de/api/health",
     "icon": "https://raw.githubusercontent.com/grafana/grafana/refs/heads/main/public/img/grafana_icon.svg",
     "slug": "monitoring",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.60%",
-    "time": 715,
+    "time": 714,
     "timeDay": 431,
     "timeWeek": 486,
     "timeMonth": 506,
@@ -166,7 +169,8 @@
       "2026-08-29": 53,
       "2026-09-27": 30,
       "2026-09-28": 15,
-      "2026-10-12": 17
+      "2026-10-12": 17,
+      "2026-10-18": 0
     }
   },
   {
