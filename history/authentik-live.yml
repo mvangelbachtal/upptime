@@ -1,7 +1,7 @@
 url: https://id.mv-angelbachtal.de/-/health/live/
-status: down
-code: 502
-responseTime: 4681
-lastUpdated: 2026-10-18T13:58:50.090Z
+status: up
+code: 200
+responseTime: 735
+lastUpdated: 2026-10-18T14:00:15.585Z
 startTime: 2026-02-01T23:20:00.539Z
 generator: Upptime <https://github.com/upptime/upptime>
