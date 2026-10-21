@@ -4,17 +4,17 @@
     "url": "https://www.mv-angelbachtal.de",
     "icon": "https://resources.mv-angelbachtal.de/logos/mva_logo.svg",
     "slug": "mv-angelbachtal",
-    "status": "down",
-    "uptime": "99.58%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.10%",
+    "status": "up",
+    "uptime": "99.56%",
+    "uptimeDay": "85.18%",
+    "uptimeWeek": "97.88%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "99.06%",
     "time": 1506,
-    "timeDay": 721,
-    "timeWeek": 1707,
-    "timeMonth": 2090,
-    "timeYear": 1634,
+    "timeDay": 850,
+    "timeWeek": 1616,
+    "timeMonth": 2064,
+    "timeYear": 1633,
     "dailyMinutesDown": {
       "2026-02-26": 45,
       "2026-02-28": 21,
@@ -65,7 +65,7 @@
       "2026-08-12": 15,
       "2026-09-02": 18,
       "2026-09-21": 68,
-      "2026-10-21": 0
+      "2026-10-21": 213
     }
   },
   {
