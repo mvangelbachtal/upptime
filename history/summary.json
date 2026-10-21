@@ -6,9 +6,9 @@
     "slug": "mv-angelbachtal",
     "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "83.91%",
-    "uptimeWeek": "97.70%",
-    "uptimeMonth": "99.47%",
+    "uptimeDay": "82.59%",
+    "uptimeWeek": "97.51%",
+    "uptimeMonth": "99.43%",
     "uptimeYear": "99.06%",
     "time": 1508,
     "timeDay": 978,
@@ -65,7 +65,7 @@
       "2026-08-12": 15,
       "2026-09-02": 18,
       "2026-09-21": 68,
-      "2026-10-21": 231
+      "2026-10-21": 250
     }
   },
   {
@@ -73,16 +73,16 @@
     "url": "https://cloud.mv-angelbachtal.de",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.mv-angelbachtal.de.ico",
     "slug": "nextcloud",
-    "status": "down",
+    "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.75%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.72%",
     "uptimeYear": "99.94%",
-    "time": 1135,
-    "timeDay": 464,
-    "timeWeek": 1142,
-    "timeMonth": 1630,
+    "time": 1136,
+    "timeDay": 908,
+    "timeWeek": 1165,
+    "timeMonth": 1622,
     "timeYear": 1190,
     "dailyMinutesDown": {
       "2025-12-22": 15,
@@ -93,7 +93,7 @@
       "2026-09-28": 16,
       "2026-10-01": 64,
       "2026-10-10": 25,
-      "2026-10-21": 4
+      "2026-10-21": 19
     }
   },
   {
@@ -178,9 +178,9 @@
     "slug": "e-mail",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "97.69%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 123,
     "timeDay": 0,
@@ -189,7 +189,7 @@
     "timeYear": 124,
     "dailyMinutesDown": {
       "2026-09-11": 19,
-      "2026-10-21": 14
+      "2026-10-21": 33
     }
   }
 ]
