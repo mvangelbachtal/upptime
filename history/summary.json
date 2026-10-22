@@ -6,10 +6,10 @@
     "slug": "mv-angelbachtal",
     "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "82.59%",
-    "uptimeWeek": "97.51%",
-    "uptimeMonth": "99.43%",
-    "uptimeYear": "99.06%",
+    "uptimeDay": "79.33%",
+    "uptimeWeek": "97.05%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "99.05%",
     "time": 1508,
     "timeDay": 978,
     "timeWeek": 1609,
@@ -65,7 +65,8 @@
       "2026-08-12": 15,
       "2026-09-02": 18,
       "2026-09-21": 68,
-      "2026-10-21": 250
+      "2026-10-21": 270,
+      "2026-10-22": 28
     }
   },
   {
@@ -177,11 +178,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "e-mail",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "97.69%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.99%",
+    "uptimeDay": "94.43%",
+    "uptimeWeek": "99.20%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.98%",
     "time": 123,
     "timeDay": 0,
     "timeWeek": 128,
@@ -189,7 +190,8 @@
     "timeYear": 124,
     "dailyMinutesDown": {
       "2026-09-11": 19,
-      "2026-10-21": 33
+      "2026-10-22": 28,
+      "2026-10-21": 52
     }
   }
 ]
