@@ -74,17 +74,17 @@
     "url": "https://cloud.mv-angelbachtal.de",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.mv-angelbachtal.de.ico",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.89%",
     "uptimeYear": "99.85%",
-    "time": 1120,
-    "timeDay": 1253,
-    "timeWeek": 1119,
-    "timeMonth": 1176,
-    "timeYear": 1204,
+    "time": 1119,
+    "timeDay": 841,
+    "timeWeek": 1061,
+    "timeMonth": 1157,
+    "timeYear": 1202,
     "dailyMinutesDown": {
       "2025-12-22": 15,
       "2025-12-23": 42,
@@ -96,7 +96,8 @@
       "2026-10-10": 25,
       "2026-10-21": 19,
       "2026-10-30": 369,
-      "2026-11-09": 98
+      "2026-11-09": 98,
+      "2026-11-19": 0
     }
   },
   {
